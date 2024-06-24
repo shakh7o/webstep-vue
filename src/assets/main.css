@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.container-fluid {
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 1300px;
+    width: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
